@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cooked_chicken"
+        },
+        "title": {
+            "text": "Bens Pack",
+            "bold": true,
+            "color": "gold"
+        },
+        "description": {
+            "text": "All currently installed datapacks by mwah",
+            "color": "white",
+            "bold": false,
+            "italic": true
+        },
+        "background": "minecraft:textures/block/black_concrete.png",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "frame": "challenge"
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

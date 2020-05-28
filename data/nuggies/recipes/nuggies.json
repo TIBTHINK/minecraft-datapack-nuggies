@@ -1,12 +1,12 @@
 {
-    "type": "crafting_shapeless",
-    "ingredients": [
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
       {
-        "item": "minecraft:cooked_chicken"
+          "item": "minecraft:cooked_chicken"
       }
-    ],
-    "result": {
-      "item": "minecraft:knowledge_book",
-
-    }
+  ],
+  "result": {
+      "item": "minecraft:beetroot",
+      "count": 9
   }
+}

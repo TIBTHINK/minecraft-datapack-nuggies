@@ -1,5 +1,5 @@
-
 {
-	"values": ["nuggies:main"]
+    "values": [
+        "nuggies:loop"
+    ]
 }
-
